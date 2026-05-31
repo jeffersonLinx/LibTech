@@ -14,7 +14,7 @@ $(document).ready(function(){
   $("#m_registro_boleta").attr("class","nav-link active");
   $("#m_boleta").attr("class","nav-link active");
   $("#m_boleta").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Registro de Boleta - DuoLab Group');
+  $(document).prop('title', 'Registro de Boleta - LibTech Group');
 });
 
 $('select[name="facturacion_formpagotext"]').on("change", function() {

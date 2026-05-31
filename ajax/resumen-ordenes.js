@@ -7,7 +7,7 @@ $(document).ready(function(){
   $("#m_ordenes").attr("class","nav-link active");
   $("#m_ordenes").parent().attr("class","nav-item has-treeview menu-open");
   $("#m_resumen_orden").attr("class","nav-link active");
-  $(document).prop('title', 'Resumen de Órdenes - DuoLab Group');
+  $(document).prop('title', 'Resumen de Órdenes - LibTech Group');
 });
 
 var tbl_ordenes = $("#table-ordenes").DataTable({

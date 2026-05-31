@@ -6,7 +6,7 @@
             <div class="row mb-0">
                 <div class="col-md-12">
                     <div class="m-0 text-dark text-center text-lg">
-                        <i class="fas fa-user"></i>&nbsp;&nbsp;Registro de Cliente (Padrón Comercial)
+                        <i class="fas fa-user"></i>&nbsp;&nbsp;Registro de Cliente
                     </div>
                 </div>
             </div>

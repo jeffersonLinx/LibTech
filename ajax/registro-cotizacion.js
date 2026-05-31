@@ -10,7 +10,7 @@ $(document).ready(function(){
   $("#m_registro_cotizacion").attr("class","nav-link active");
   $("#m_cotizacion").attr("class","nav-link active");
   $("#m_cotizacion").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Registro de Cotización - DuoLab Group');
+  $(document).prop('title', 'Registro de Cotización - LibTech Group');
 });
 
 $('select[name="cotizacion_formpagotext"]').on("change", function() {

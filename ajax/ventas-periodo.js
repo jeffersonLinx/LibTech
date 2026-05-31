@@ -2,7 +2,7 @@ $(document).ready(function(){
   $("#m_reportes").attr("class","nav-link active");
   $("#m_reportes").parent().attr("class","nav-item has-treeview menu-open");
   $("#m_ventas_periodo").attr("class","nav-link active");
-  $(document).prop('title', 'Ventas por Periodo - DuoLab Group');
+  $(document).prop('title', 'Ventas por Periodo - LibTech Group');
 });
 
 var current_year = new Date().getFullYear();

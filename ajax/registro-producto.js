@@ -2,7 +2,7 @@ $(document).ready(function(){
   $("#m_almacen").attr("class","nav-link active");
   $("#m_almacen").parent().attr("class","nav-item has-treeview menu-open");
   $("#m_registro_producto").attr("class","nav-link active");
-  $(document).prop('title', 'Registro de Productos - DuoLab Group');
+  $(document).prop('title', 'Registro de Productos - LibTech Group');
 });
 
 $.post("../../modules/proveedores/listar-proveedores.php", function (data) {

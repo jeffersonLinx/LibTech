@@ -14,7 +14,7 @@ $(document).ready(function(){
   $("#m_registro_nota_credito").attr("class","nav-link active");
   $("#m_nota_credito").attr("class","nav-link active");
   $("#m_nota_credito").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Registro de Nota de Crédito - DuoLab Group');
+  $(document).prop('title', 'Registro de Nota de Crédito - LibTech Group');
 });
 
 $('select[name="facturacion_formpagotext"]').on("change", function() {

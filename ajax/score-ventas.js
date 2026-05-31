@@ -6,7 +6,7 @@ $(document).ready(function(){
   $("#m_reportes").attr("class","nav-link active");
   $("#m_reportes").parent().attr("class","nav-item has-treeview menu-open");
   $("#m_score_ventas").attr("class","nav-link active");
-  $(document).prop('title', 'Score de Ventas - DuoLab Group');
+  $(document).prop('title', 'Score de Ventas - LibTech Group');
 });
 
 var year_actual = parseInt(moment().format('YYYY'));

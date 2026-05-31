@@ -2,7 +2,7 @@ $("#col-btn-delete-client").hide();
 
 $(document).ready(function(){
   $("#m_clientes").attr("class","nav-link active");
-  $(document).prop('title', 'Clientes - DuoLab Group');
+  $(document).prop('title', 'Clientes - LibTech Group');
 });
 
 var tabla_clientes = $('#table-clientes');

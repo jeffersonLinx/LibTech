@@ -2,7 +2,7 @@ $(document).ready(function(){
   $("#m_resumen_boleta").attr("class","nav-link active");
   $("#m_boleta").attr("class","nav-link active");
   $("#m_boleta").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Resumen de Boletas - DuoLab Group');
+  $(document).prop('title', 'Resumen de Boletas - LibTech Group');
 });
 
 var tbl_facturas = $("#table-boletas").DataTable({

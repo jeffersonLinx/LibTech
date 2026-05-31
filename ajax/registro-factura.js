@@ -14,7 +14,7 @@ $(document).ready(function(){
   $("#m_registro_factura").attr("class","nav-link active");
   $("#m_facturacion").attr("class","nav-link active");
   $("#m_facturacion").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Registro de Factura - DuoLab Group');
+  $(document).prop('title', 'Registro de Factura - LibTech Group');
 });
 
 $('select[name="facturacion_formpagotext"]').on("change", function() {

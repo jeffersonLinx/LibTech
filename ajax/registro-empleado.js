@@ -2,7 +2,7 @@ $("#col-btn-delete-employee").hide();
 
 $(document).ready(function(){
   $("#m_empleados").attr("class","nav-link active");
-  $(document).prop('title', 'Empleados - DuoLab Group');
+  $(document).prop('title', 'Empleados - LibTech Group');
 });
 
 var tabla_empleados = $('#table-empleados');

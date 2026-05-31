@@ -2,7 +2,7 @@ $(document).ready(function(){
   $("#m_resumen_nota_credito").attr("class","nav-link active");
   $("#m_nota_credito").attr("class","nav-link active");
   $("#m_nota_credito").parent().attr("class","nav-item has-treeview menu-open");
-  $(document).prop('title', 'Resumen de Notas de Crédito - DuoLab Group');
+  $(document).prop('title', 'Resumen de Notas de Crédito - LibTech Group');
 });
 
 var tbl_facturas = $("#table-facturas").DataTable({
