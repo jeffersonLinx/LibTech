@@ -1,0 +1,71 @@
+adaptar el sistema para el "Instituto de robotica techhome, rojo institucional"
+contexto
+_____________________
+TECH HOME Bolivia, es una empresa y escuela tecnológica enfocada principalmente en la enseñanza de robótica, programación, tecnología y electrónica educativa para niños, adolescentes y jóvenes en Bolivia.
+
+🔹 ¿Qué hace TECH HOME?
+Imparte cursos de robótica educativa.
+Enseña programación y uso de microcontroladores como Arduino.
+Organiza talleres tecnológicos para colegios.
+Publica libros educativos de robótica para primaria y secundaria.
+Realiza competencias de robótica como TECHHOMEBOT.
+🔹 Misión
+
+Su misión es formar estudiantes y futuros líderes en áreas relacionadas con:
+
+Ciencias de la computación
+Telecomunicaciones
+Robótica
+Tecnología aplicada
+🔹 Visión
+
+Buscan que más personas en Bolivia tengan acceso al aprendizaje tecnológico y convertirse en referentes de innovación educativa en robótica y computación.
+
+🔹 Servicios principales
+Cursos sabatinos de robótica.
+Cursos vacacionales.
+Robótica con Arduino.
+Internet de las Cosas (IoT).
+Capacitación para profesores.
+Estimulación temprana con tecnología.
+🔹 Plataforma web
+
+Su sitio incluye:
+
+Registro de usuarios.
+Inicio de sesión.
+Roles de administrador, empleados, clientes e invitados.
+Formularios de inscripción.
+Gestión de cursos y actividades.
+🔹 En resumen
+
+TECH HOME Bolivia es una escuela de robótica y tecnología avanzada que combina educación, capacitación y eventos tecnológicos para impulsar el aprendizaje 
+de programación, electrónica y robótica en estudiantes bolivianos. También cuenta con una plataforma web para gestionar usuarios, cursos y actividades educativas.
+_____________________
+    1.- mantener las mismas tablas de la base de datos pero modificando los 
+        insert y los elementos introducidos por similares pero enfocados a libros
+        CATALOGO de libros
+         PRIMARIA: Libros de robotica y tecnologia
+            PRIMARIA 
+            1.-TECNOLOGIA Y ROBOTICA CON TECH + H 1
+            2.-TECNOLOGIA Y ROBOTICA CON TECH + H 2
+            3.-TECNOLOGIA Y ROBOTICA CON TECH + H 3
+            4.-TECNOLOGIA Y ROBOTICA CON TECH + H 4
+            5.-TECNOLOGIA Y ROBOTICA CON TECH + H 5
+            6.-TECNOLOGIA Y ROBOTICA CON TECH + H 6
+            SECUNDARIA
+            1.-ROBOTICA Y TECNOLOGIA 1
+            2.-ROBOTICA Y TECNOLOGIA 2
+            3.-ROBOTICA Y TECNOLOGIA 3
+            4.-ROBOTICA Y TECNOLOGIA 4
+            5.-ROBOTICA Y TECNOLOGIA 5
+            6.-ROBOTICA Y TECNOLOGIA 6
+
+            1.-ROBOTICA CON ARDUINO 1
+            2.-ROBOTICA CON ARDUINO 2
+            3.-ROBOTICA CON ARDUINO 3
+            4.-ROBOTICA CON ARDUINO 4
+            5.-ROBOTICA CON ARDUINO 5
+            6.-ROBOTICA CON ARDUINO 6
+
+            
