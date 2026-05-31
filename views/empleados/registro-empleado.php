@@ -120,6 +120,9 @@
                                         <select class="form-control select2" style="width: 100%;" name="empleado_cargo" required>
                                             <option value="">Seleccione un cargo</option>
                                             <option value="Gerente General">Gerente General</option>
+                                            <option value="Docente">Docente</option>
+                                            <option value="AuxiliarDocente">Auxilar de Docente</option>
+                                            <option value="Auxiliar">Auxilar General</option>
                                             <option value="Gerente de Marketing">Gerente de Marketing</option>
                                             <option value="Secretario">Secretario</option>
                                             <option value="Transportista">Transportista</option>

@@ -3,7 +3,7 @@
 
     <!-- Brand Logo -->
     <a href="<?php echo $functions->direct_paginas()."home" ?>" class="brand-link">
-      <img src="<?php echo $functions->direct_sistema(); ?>/img/chemistry.png" alt="DuoLab Group Logo" class="brand-image img-circle elevation-3"
+      <img src="<?php echo $functions->direct_sistema(); ?>/img/chemistry.png" alt="LIBTECH Group Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-dark text-danger">
     <strong>LibTech</strong> GROUP

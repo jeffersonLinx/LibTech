@@ -16,17 +16,17 @@ if (isset($_SESSION['loggedInUser'])) {
   <meta name="description" content="Empresa peruana dedicada a la IMPORTACIÓN, COMERCIALIZACIÓN Y DISTRIBUCIÓN de productos del rubro cosmético y farmacéutico.">
   <meta name="author" content="Christian Cano">
 
-  <title>DuoLab</title>
+  <title>LIBTECH</title>
   
   <meta property="og:type" content="website">
   <meta property="og:title" content="DuoLab">
   <meta property="og:site" content="DuoLab">
   <meta property="og:url" content="http://localhost/duolab">
-  <meta property="og:description" content="Bienvenido a DuoLab. Inicie sesión para continuar.">
+  <meta property="og:description" content="Bienvenido a LIBTECH. Inicie sesión para continuar.">
   <meta property="og:image" content="../img/duolabgroup_logo.png">
 
   <meta property="twitter:title" content="DuoLab">
-  <meta property="twitter:description" content="Bienvenido a DuoLab. Inicie sesión para continuar.">
+  <meta property="twitter:description" content="Bienvenido a LIBTECH. Inicie sesión para continuar.">
   <meta name="twitter:image" content="./img/duolabgroup_logo.png">
   <meta name="twitter:card" content="summary_large_image">
   <!--<meta name="twitter:site" content="@duolab">-->

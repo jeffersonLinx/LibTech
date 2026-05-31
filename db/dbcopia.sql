@@ -885,11 +885,11 @@ INSERT INTO `tbl_user` (`id`, `username`, `password`, `employee_id`, `photo_url`
 
 INSERT INTO `tbl_employee` (`id`, `name`, `last_name_1`, `last_name_2`, `id_doc_type`, `id_doc_number`, `civil_status`, `email`, `phone`, `address`, `job`, `study_level`, `study_career`, `birth_date`, `admission_date`) VALUES
 (5, 'Michel', 'Vargas', 'Barbarán', 'DNI', '16376242', 'Soltero', '1637624@utp.edu.pe', '', 'Lima', 'Secretario', 'Bachiller', 'Ingeniería de Sistemas', '1995-01-01', '2020-04-02'),
-(6, 'EVELYN PAMELA', 'FLORES', 'ACOSTA', 'DNI', '72057067', 'Soltero', 'VENTAS@DUOLABGROUP.COM', '953612190', 'JR FAUSTINO SANCHEZ CARRION 320', 'Secretario', 'Actualmente cursando', 'TRADUCCION E INTERPRETACION', '1991-12-20', '2019-06-01'),
-(8, 'ROSA MONICA', 'LOPEZ', 'DAPUETO', 'DNI', '09866151', 'Soltero', 'MLOPEZ@DUOLABGROUP.COM', '924309677', 'AV AREQUIPA 4130 - MIRAFLORES', 'Gerente General', 'Bachiller', '', '1971-08-08', '2019-09-01'),
-(9, 'Administrador', 'DUOLAB', '', 'DNI', '88888888', 'Soltero', 'admin@duolabgroup.com', '991234567', 'Lima', 'Secretario', 'Actualmente cursando', 'Administrador', '2000-01-01', '2000-01-01'),
+(6, 'EVELYN PAMELA', 'FLORES', 'ACOSTA', 'DNI', '72057067', 'Soltero', 'VENTAS@LIBTECHGROUP.COM', '953612190', 'JR FAUSTINO SANCHEZ CARRION 320', 'Secretario', 'Actualmente cursando', 'TRADUCCION E INTERPRETACION', '1991-12-20', '2019-06-01'),
+(8, 'ROSA MONICA', 'LOPEZ', 'DAPUETO', 'DNI', '09866151', 'Soltero', 'MLOPEZ@LIBTECHGROUP.COM', '924309677', 'AV AREQUIPA 4130 - MIRAFLORES', 'Gerente General', 'Bachiller', '', '1971-08-08', '2019-09-01'),
+(9, 'Administrador', 'LIBTECH', '', 'DNI', '88888888', 'Soltero', 'admin@LIBTECHbgroup.com', '991234567', 'Lima', 'Secretario', 'Actualmente cursando', 'Administrador', '2000-01-01', '2000-01-01'),
 (20, 'KELLY CHABELLY', 'FLORES', 'ACOSTA', 'DNI', '48809557', 'Soltero', 'kcfloresacosta@gmail.com', '924696024', 'JR. JOSE F. SANCHEZ CARRION 320, URB. SAN AGUSTIN - COMAS', 'Secretario', '', '', '1996-02-02', '2021-03-15'),
 (21, 'DANIEL', 'ALVA', 'CASAS', 'DNI', '06784953', 'Divorciado', '', '', '.', 'Gerente de Marketing', '', '', '1973-08-02', '2021-05-01'),
-(22, 'CAROLINA', 'VALENCIA', 'HERRERA', 'DNI', '44078303', 'Soltero', 'ADMINISTRACION@DUOLABGROUP.COM', '', 'JR GENERAL CORDOVA 2052 DPTO F2 LINCE', 'Secretario', 'Actualmente cursando', '', '1986-12-04', '2022-01-01'),
-(23, 'SHARON DEL CARMEN', 'LEON', 'MONTERO', 'Carnet de Extranjería', '002261264', 'Casado', 'ventas@duolabgroup.com', '514801645', 'AV PASEO DE LA REPUBLICA 6155 DPTO 701 MIRAFLORES', 'Secretario', 'Titulado', 'CONTADOR', '1981-09-17', '2022-07-01'),
-(24, 'KEVIN', 'SARAVIA', 'GONZALES', 'DNI', '70194839', 'Soltero', 'ksaravia@duolabgroup.com', '', 'AV UNIVERSITARIA 2017 SAN MIGUEL', 'Secretario', 'Titulado', 'ADMINISTRACIÓN DE NEGOCIOS', '1992-01-11', '2022-08-08');
+(22, 'CAROLINA', 'VALENCIA', 'HERRERA', 'DNI', '44078303', 'Soltero', 'ADMINISTRACION@LIBTECHGROUP.COM', '', 'JR GENERAL CORDOVA 2052 DPTO F2 LINCE', 'Secretario', 'Actualmente cursando', '', '1986-12-04', '2022-01-01'),
+(23, 'SHARON DEL CARMEN', 'LEON', 'MONTERO', 'Carnet de Extranjería', '002261264', 'Casado', 'ventas@LIBTECHgroup.com', '514801645', 'AV PASEO DE LA REPUBLICA 6155 DPTO 701 MIRAFLORES', 'Secretario', 'Titulado', 'CONTADOR', '1981-09-17', '2022-07-01'),
+(24, 'KEVIN', 'SARAVIA', 'GONZALES', 'DNI', '70194839', 'Soltero', 'ksaravia@LIBTECHgroup.com', '', 'AV UNIVERSITARIA 2017 SAN MIGUEL', 'Secretario', 'Titulado', 'ADMINISTRACIÓN DE NEGOCIOS', '1992-01-11', '2022-08-08');
